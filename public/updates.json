@@ -2,7 +2,7 @@
   {
     "标题": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
     "发布方": "Anthropic",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -18,7 +18,7 @@
   {
     "标题": "Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
     "发布方": "Anthropic",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -34,7 +34,7 @@
   {
     "标题": "Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
     "发布方": "Anthropic",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -48,9 +48,25 @@
     "链接": "https://www.anthropic.com/news/claude-is-a-space-to-think"
   },
   {
+    "标题": "May 26, 2026 Announcements Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+    "发布方": "Anthropic",
+    "日期": "2026-05-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea"
+  },
+  {
     "标题": "May 25, 2026 Announcements Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
     "发布方": "Anthropic",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -66,7 +82,7 @@
   {
     "标题": "May 19, 2026 Announcements Widening the conversation on frontier AI",
     "发布方": "Anthropic",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -82,7 +98,7 @@
   {
     "标题": "May 19, 2026 Announcements KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
     "发布方": "Anthropic",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -98,7 +114,7 @@
   {
     "标题": "May 18, 2026 Announcements Anthropic acquires Stainless",
     "发布方": "Anthropic",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -114,7 +130,7 @@
   {
     "标题": "May 14, 2026 Announcements PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
     "发布方": "Anthropic",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -130,7 +146,7 @@
   {
     "标题": "May 14, 2026 Announcements Anthropic forms $200 million partnership with the Gates Foundation",
     "发布方": "Anthropic",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -147,7 +163,7 @@
   {
     "标题": "May 13, 2026 Announcements Introducing Claude for Small Business",
     "发布方": "Anthropic",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -163,7 +179,7 @@
   {
     "标题": "May 6, 2026 Announcements Higher usage limits for Claude and a compute deal with SpaceX",
     "发布方": "Anthropic",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -178,25 +194,9 @@
     "链接": "https://www.anthropic.com/news/higher-limits-spacex"
   },
   {
-    "标题": "May 5, 2026 Announcements Agents for financial services",
-    "发布方": "Anthropic",
-    "日期": "2026-05-26",
-    "地区": "海外",
-    "类型": "Agent",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/finance-agents"
-  },
-  {
     "标题": "Google Display Ads has a new home in Demand Gen.",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -212,7 +212,7 @@
   {
     "标题": "Catch up on the Dialogues stage at Google I/O 2026.",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -228,7 +228,7 @@
   {
     "标题": "Here's how accessibility tools and Gemini are helping students find independence",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -245,7 +245,7 @@
   {
     "标题": "Fuel your next wave of growth on YouTube with Demand Gen",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -262,7 +262,7 @@
   {
     "标题": "Asset Studio is entering a new era of AI-powered creativity.",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -278,7 +278,7 @@
   {
     "标题": "How we’re helping retailers thrive with new Universal Commerce Protocol features and AI tools on Google",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -294,7 +294,7 @@
   {
     "标题": "A new generation of ads for the AI era of Search",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -311,7 +311,7 @@
   {
     "标题": "Google Marketing Live 2026",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -327,7 +327,7 @@
   {
     "标题": "Meet Ask Advisor, your new AI-powered collaborator",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -343,7 +343,7 @@
   {
     "标题": "Accelerating AI impact in Singapore",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -359,7 +359,7 @@
   {
     "标题": "Running Guide agent: A step towards running unbounded",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Google Blog",
@@ -375,7 +375,7 @@
   {
     "标题": "I/O 2026",
     "发布方": "Google",
-    "日期": "2026-05-26",
+    "日期": "2026-05-27",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",

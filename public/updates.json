@@ -193,6 +193,39 @@
     "链接": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
   },
   {
+    "标题": "Powering the world’s first AI arts museum",
+    "发布方": "Google",
+    "日期": "2026-06-18",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/"
+  },
+  {
+    "标题": "Introducing Ask Ad Manager, the AI agent that will help you get more done",
+    "发布方": "Google",
+    "日期": "2026-06-18",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/admanager/ask-ad-manager/"
+  },
+  {
     "标题": "How universities are preparing students for an AI-powered future",
     "发布方": "Google",
     "日期": "2026-06-18",
@@ -322,53 +355,5 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/company-news/inside-google/message-ceo/stanford-commencement-speech-2026/"
-  },
-  {
-    "标题": "How we're combatting AI scams with security, legislation and more",
-    "发布方": "Google",
-    "日期": "2026-06-18",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/safety-security/combatting-ai-scams/"
-  },
-  {
-    "标题": "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together.",
-    "发布方": "Google",
-    "日期": "2026-06-18",
-    "地区": "海外",
-    "类型": "Agent",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/ads-commerce/new-real-estate-ads-formats/"
-  },
-  {
-    "标题": "We’re bringing Walmart Connect to Display & Video 360.",
-    "发布方": "Google",
-    "日期": "2026-06-18",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products/marketingplatform/360/walmart-connect/"
   }
 ]

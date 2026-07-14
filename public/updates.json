@@ -2,7 +2,7 @@
   {
     "标题": "Inviting hard questions Announcements Jul 9, 2026 We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
     "发布方": "Anthropic",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -18,7 +18,7 @@
   {
     "标题": "Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
     "发布方": "Anthropic",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -35,7 +35,7 @@
   {
     "标题": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
     "发布方": "Anthropic",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -51,7 +51,7 @@
   {
     "标题": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
     "发布方": "Anthropic",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -67,7 +67,7 @@
   {
     "标题": "Jul 9, 2026 Case Study UST is bringing Claude to physical AI",
     "发布方": "Anthropic",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -83,7 +83,7 @@
   {
     "标题": "Jul 9, 2026 Announcements Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
     "发布方": "Anthropic",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -99,7 +99,7 @@
   {
     "标题": "Jul 9, 2026 Announcements Introducing a way to reflect on how you use Claude",
     "发布方": "Anthropic",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -115,7 +115,7 @@
   {
     "标题": "Jul 6, 2026 Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
     "发布方": "Anthropic",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -131,7 +131,7 @@
   {
     "标题": "Jul 2, 2026 Announcements More details on Fable 5’s cyber safeguards and our jailbreak framework",
     "发布方": "Anthropic",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -147,7 +147,7 @@
   {
     "标题": "Jun 23, 2026 Product Introducing Claude Tag",
     "发布方": "Anthropic",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -163,7 +163,7 @@
   {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -177,9 +177,25 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Optimize your reach and frequency across campaigns with video campaign groups.",
+    "发布方": "Google",
+    "日期": "2026-07-14",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/video-campaign-groups/"
+  },
+  {
     "标题": "Waze rolls out new customization features and more Gemini updates",
     "发布方": "Google",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -196,7 +212,7 @@
   {
     "标题": "Bryson DeChambeau partners with Google Health.",
     "发布方": "Google",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -212,7 +228,7 @@
   {
     "标题": "Here’s how to make study notebooks in the Gemini app.",
     "发布方": "Google",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -229,7 +245,7 @@
   {
     "标题": "Expanding AI transparency in ads",
     "发布方": "Google",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -245,7 +261,7 @@
   {
     "标题": "3 ways this coffee shop is growing with Gemini",
     "发布方": "Google",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -262,7 +278,7 @@
   {
     "标题": "How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience",
     "发布方": "Google",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -278,7 +294,7 @@
   {
     "标题": "Three new satellites join the fight against wildfires.",
     "发布方": "Google",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -294,7 +310,7 @@
   {
     "标题": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
     "发布方": "Google",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Google Blog",
@@ -311,7 +327,7 @@
   {
     "标题": "Why B3 chose Android for secure AI-enabled productivity",
     "发布方": "Google",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -327,7 +343,7 @@
   {
     "标题": "The latest AI news we announced in June 2026",
     "发布方": "Google",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -343,7 +359,7 @@
   {
     "标题": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
     "发布方": "Google",
-    "日期": "2026-07-13",
+    "日期": "2026-07-14",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -355,22 +371,5 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/"
-  },
-  {
-    "标题": "Gemini Spark updates: macOS launch, connected apps and more",
-    "发布方": "Google",
-    "日期": "2026-07-13",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/"
   }
 ]

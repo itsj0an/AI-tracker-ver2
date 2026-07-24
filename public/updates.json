@@ -2,7 +2,7 @@
   {
     "标题": "Inviting hard questions Announcements Jul 9, 2026 We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -18,7 +18,7 @@
   {
     "标题": "Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -35,7 +35,7 @@
   {
     "标题": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -51,7 +51,7 @@
   {
     "标题": "Announcements Jun 30, 2026 Claude Science, an AI workbench for scientists, is now available Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -67,7 +67,7 @@
   {
     "标题": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -83,7 +83,7 @@
   {
     "标题": "Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -99,7 +99,7 @@
   {
     "标题": "Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -115,7 +115,7 @@
   {
     "标题": "Jul 20, 2026 Announcements Apply for Anthropic’s AI for Science rare disease research grants",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -131,7 +131,7 @@
   {
     "标题": "Jul 14, 2026 Product Introducing Claude for Teachers",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -147,7 +147,7 @@
   {
     "标题": "Jul 14, 2026 Announcements Anthropic commits $10 million to Canadian AI research",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -163,7 +163,7 @@
   {
     "标题": "Jul 9, 2026 Case Study UST is bringing Claude to physical AI",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -179,7 +179,7 @@
   {
     "标题": "Jul 9, 2026 Announcements Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
     "发布方": "Anthropic",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -193,9 +193,25 @@
     "链接": "https://www.anthropic.com/news/ben-bernanke"
   },
   {
+    "标题": "Play Points members and comic book fans can score exclusive rewards with Google Play",
+    "发布方": "Google",
+    "日期": "2026-07-24",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/platforms/google-play/comic-con-san-diego/"
+  },
+  {
     "标题": "Apply now for the Google for Startups Gemini Startup Forum.",
     "发布方": "Google",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -212,7 +228,7 @@
   {
     "标题": "Understanding the AI economy",
     "发布方": "Google",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -228,7 +244,7 @@
   {
     "标题": "Q2 2026 earnings call: Remarks from our CEO",
     "发布方": "Google",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -244,7 +260,7 @@
   {
     "标题": "Here’s how to ask Gemini Live for help with anything you see.",
     "发布方": "Google",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -261,7 +277,7 @@
   {
     "标题": "Drive with Halo on Waze",
     "发布方": "Google",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -277,7 +293,7 @@
   {
     "标题": "13 Google tips for a fun, productive summer off from college",
     "发布方": "Google",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -294,7 +310,7 @@
   {
     "标题": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "发布方": "Google",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -311,7 +327,7 @@
   {
     "标题": "5 ways to build a side hustle with Gemini",
     "发布方": "Google",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -328,7 +344,7 @@
   {
     "标题": "Reimagining higher education with the Waterloo Futures Lab",
     "发布方": "Google",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -344,7 +360,7 @@
   {
     "标题": "NotebookLM is now Gemini Notebook",
     "发布方": "Google",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -361,7 +377,7 @@
   {
     "标题": "Connect more of your apps to Search",
     "发布方": "Google",
-    "日期": "2026-07-23",
+    "日期": "2026-07-24",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -373,22 +389,5 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/search/connected-apps/"
-  },
-  {
-    "标题": "Create, edit and star in videos with two Google Vids updates",
-    "发布方": "Google",
-    "日期": "2026-07-23",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/"
   }
 ]

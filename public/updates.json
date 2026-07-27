@@ -65,6 +65,23 @@
     "链接": "https://www.anthropic.com/news/claude-sonnet-5"
   },
   {
+    "标题": "Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
+    "发布方": "Anthropic",
+    "日期": "2026-07-27",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "合作"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/cognizant-anthropic"
+  },
+  {
     "标题": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
     "发布方": "Anthropic",
     "日期": "2026-07-27",
@@ -175,22 +192,6 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/ust-claude"
-  },
-  {
-    "标题": "Jul 9, 2026 Announcements Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-    "发布方": "Anthropic",
-    "日期": "2026-07-27",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/ben-bernanke"
   },
   {
     "标题": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",

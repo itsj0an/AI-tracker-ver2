@@ -2,7 +2,7 @@
   {
     "标题": "Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -18,7 +18,7 @@
   {
     "标题": "Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -34,7 +34,7 @@
   {
     "标题": "Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -51,7 +51,7 @@
   {
     "标题": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -67,7 +67,7 @@
   {
     "标题": "Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -83,7 +83,7 @@
   {
     "标题": "Jul 27, 2026 Announcements Our position on open-weights models",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -99,7 +99,7 @@
   {
     "标题": "Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -116,7 +116,7 @@
   {
     "标题": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -132,7 +132,7 @@
   {
     "标题": "Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -148,7 +148,7 @@
   {
     "标题": "Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -164,7 +164,7 @@
   {
     "标题": "Jul 20, 2026 Announcements Apply for Anthropic’s AI for Science rare disease research grants",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -180,7 +180,7 @@
   {
     "标题": "Jul 14, 2026 Product Introducing Claude for Teachers",
     "发布方": "Anthropic",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -194,9 +194,26 @@
     "链接": "https://www.anthropic.com/news/claude-for-teachers"
   },
   {
+    "标题": "Find out what’s new in the Gemini app in July's Gemini Drop.",
+    "发布方": "Google",
+    "日期": "2026-08-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/"
+  },
+  {
     "标题": "Gemini Spark now integrates with Chrome",
     "发布方": "Google",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -213,7 +230,7 @@
   {
     "标题": "Introducing Gemini Robotics ER 2",
     "发布方": "Google",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -230,7 +247,7 @@
   {
     "标题": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control.",
     "发布方": "Google",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -246,7 +263,7 @@
   {
     "标题": "Gemini for macOS adds new natural language capabilities",
     "发布方": "Google",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -263,7 +280,7 @@
   {
     "标题": "How Gemini Flash agents are helping a Michigan dairy farmer",
     "发布方": "Google",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Google Blog",
@@ -278,9 +295,25 @@
     "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/"
   },
   {
+    "标题": "3 new ways nonprofits can put AI to work",
+    "发布方": "Google",
+    "日期": "2026-08-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/"
+  },
+  {
     "标题": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
     "发布方": "Google",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Google Blog",
@@ -295,41 +328,9 @@
     "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
   },
   {
-    "标题": "3 new ways nonprofits can put AI to work",
-    "发布方": "Google",
-    "日期": "2026-07-31",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/"
-  },
-  {
-    "标题": "5 ways AI Mode in Search helps you enjoy the real world",
-    "发布方": "Google",
-    "日期": "2026-07-31",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
-  },
-  {
     "标题": "5 ways to host the ultimate dinner party with Google Search",
     "发布方": "Google",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -343,9 +344,25 @@
     "链接": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"
   },
   {
+    "标题": "5 ways AI Mode in Search helps you enjoy the real world",
+    "发布方": "Google",
+    "日期": "2026-08-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
+  },
+  {
     "标题": "Google and KDDI are ready to back Japanese startups.",
     "发布方": "Google",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -361,7 +378,7 @@
   {
     "标题": "Google is signing the EU AI Act Code of Practice on Transparency of AI-Generated Content.",
     "发布方": "Google",
-    "日期": "2026-07-31",
+    "日期": "2026-08-01",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -373,21 +390,5 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/"
-  },
-  {
-    "标题": "Play Points members and comic book fans can score exclusive rewards with Google Play",
-    "发布方": "Google",
-    "日期": "2026-07-31",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/platforms/google-play/comic-con-san-diego/"
   }
 ]

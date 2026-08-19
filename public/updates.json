@@ -2,7 +2,7 @@
   {
     "标题": "Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -18,7 +18,7 @@
   {
     "标题": "Announcements Jul 9, 2026 Inviting hard questions We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -34,7 +34,7 @@
   {
     "标题": "Announcements Jun 30, 2026 Redeploying Fable 5 Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -51,7 +51,7 @@
   {
     "标题": "Product Jun 30, 2026 Introducing Claude Sonnet 5 Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -67,7 +67,7 @@
   {
     "标题": "Aug 14, 2026 Announcements How Claude’s text watermark works",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -83,7 +83,7 @@
   {
     "标题": "Aug 7, 2026 Product Improving Fable 5's biology safeguards",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -99,7 +99,7 @@
   {
     "标题": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -115,7 +115,7 @@
   {
     "标题": "Jul 30, 2026 Investigating three real-world incidents in our cybersecurity evaluations",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -131,7 +131,7 @@
   {
     "标题": "Jul 27, 2026 Announcements Our position on open-weights models",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -147,7 +147,7 @@
   {
     "标题": "Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -164,7 +164,7 @@
   {
     "标题": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -180,7 +180,7 @@
   {
     "标题": "Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
     "发布方": "Anthropic",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -194,9 +194,76 @@
     "链接": "https://www.anthropic.com/news/anthropic-economic-index-connector"
   },
   {
+    "标题": "Tap into the power of Gemini in Chrome on Android.",
+    "发布方": "Google",
+    "日期": "2026-08-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/"
+  },
+  {
+    "标题": "Try 4 new interactive BTS experiences inside the Gemini app",
+    "发布方": "Google",
+    "日期": "2026-08-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/"
+  },
+  {
+    "标题": "Keep your SAT prep on track with practice tests in Gemini.",
+    "发布方": "Google",
+    "日期": "2026-08-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/"
+  },
+  {
+    "标题": "Ask a Scientist: How can researchers use AI to predict a flood?",
+    "发布方": "Google",
+    "日期": "2026-08-19",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/"
+  },
+  {
     "标题": "Operation Blue Skies: Reducing aviation climate impact with AI",
     "发布方": "Google",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -212,7 +279,7 @@
   {
     "标题": "Get closer to the game with Gemini and Pixel",
     "发布方": "Google",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -229,7 +296,7 @@
   {
     "标题": "Introducing Gemini 3.7 Flash",
     "发布方": "Google",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -246,7 +313,7 @@
   {
     "标题": "Omni experts share what excites them most about the model.",
     "发布方": "Google",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -261,43 +328,9 @@
     "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/"
   },
   {
-    "标题": "7 can’t-miss updates from our Pixel 11 launch",
-    "发布方": "Google",
-    "日期": "2026-08-18",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/"
-  },
-  {
-    "标题": "Now you can connect even more of your favorite apps and services to Gemini.",
-    "发布方": "Google",
-    "日期": "2026-08-18",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/"
-  },
-  {
     "标题": "Google’s most sophisticated foldable: Pixel 11 Pro Fold",
     "发布方": "Google",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -311,9 +344,9 @@
     "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/"
   },
   {
-    "标题": "Pixel Watch 5: Proactive assistance and advanced health tracking on your wrist",
+    "标题": "7 can’t-miss updates from our Pixel 11 launch",
     "发布方": "Google",
-    "日期": "2026-08-18",
+    "日期": "2026-08-19",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -325,23 +358,6 @@
       "Gemini"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/"
-  },
-  {
-    "标题": "The Pixel 11 series: Your most personal Pixel yet",
-    "发布方": "Google",
-    "日期": "2026-08-18",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/"
+    "链接": "https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/"
   }
 ]

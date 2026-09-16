@@ -193,6 +193,38 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "5 things to know about teens' views on AI today",
+    "发布方": "Google",
+    "日期": "2026-09-16",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/"
+  },
+  {
+    "标题": "Boost your holiday sales with these agentic commerce updates",
+    "发布方": "Google",
+    "日期": "2026-09-16",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/shopping/google-shopping-updates-holiday-shopping/"
+  },
+  {
     "标题": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
     "发布方": "Google",
     "日期": "2026-09-16",
@@ -243,23 +275,6 @@
     "链接": "https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/"
   },
   {
-    "标题": "Sharpen your study routine with new Gemini Notebook tools",
-    "发布方": "Google",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/"
-  },
-  {
     "标题": "AI for everyone in every language",
     "发布方": "Google",
     "日期": "2026-09-16",
@@ -274,6 +289,23 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+  },
+  {
+    "标题": "4 ways to tackle household chores with Gemini",
+    "发布方": "Google",
+    "日期": "2026-09-16",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/"
   },
   {
     "标题": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
@@ -324,7 +356,7 @@
     "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
   },
   {
-    "标题": "4 ways to tackle household chores with Gemini",
+    "标题": "Sharpen your study routine with new Gemini Notebook tools",
     "发布方": "Google",
     "日期": "2026-09-16",
     "地区": "海外",
@@ -338,7 +370,7 @@
       "Gemini"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/"
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/"
   },
   {
     "标题": "New insights from Google’s AI & Economy ATLAS",
@@ -355,37 +387,5 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/"
-  },
-  {
-    "标题": "DevFest is back",
-    "发布方": "Google",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
-  },
-  {
-    "标题": "Three Google supported projects premiere during the 83rd Venice International Film Festival.",
-    "发布方": "Google",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "标题": "Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -19,7 +19,7 @@
   {
     "标题": "Announcements Aug 27, 2026 Previewing the Model Hardware Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -35,7 +35,7 @@
   {
     "标题": "Product Jul 24, 2026 Introducing Claude Opus 5 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -51,7 +51,7 @@
   {
     "标题": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -67,7 +67,7 @@
   {
     "标题": "Aug 27, 2026 Announcements Expanding our support for scientists",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -83,7 +83,7 @@
   {
     "标题": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -99,7 +99,7 @@
   {
     "标题": "Aug 14, 2026 Announcements How Claude’s text watermark works",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -115,7 +115,7 @@
   {
     "标题": "Aug 7, 2026 Product Improving Fable 5's biology safeguards",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -131,7 +131,7 @@
   {
     "标题": "Aug 4, 2026 Announcements Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -147,7 +147,7 @@
   {
     "标题": "Jul 30, 2026 Announcements Investigating three real-world incidents in our cybersecurity evaluations",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -163,7 +163,7 @@
   {
     "标题": "Jul 27, 2026 Announcements Our position on open-weights models",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -179,7 +179,7 @@
   {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -193,9 +193,25 @@
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
   },
   {
+    "标题": "Rethink your strategy to drive sales this holiday season.",
+    "发布方": "Google",
+    "日期": "2026-09-17",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/"
+  },
+  {
     "标题": "5 things to know about teens' views on AI today",
     "发布方": "Google",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -211,7 +227,7 @@
   {
     "标题": "Boost your holiday sales with these agentic commerce updates",
     "发布方": "Google",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Google Blog",
@@ -227,7 +243,7 @@
   {
     "标题": "Build real-time voice applications with Gemini 3.8 Live and 3.5 Transcribe",
     "发布方": "Google",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -244,7 +260,7 @@
   {
     "标题": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
     "发布方": "Google",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -261,7 +277,7 @@
   {
     "标题": "15 organizations transforming public service with AI",
     "发布方": "Google",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -275,9 +291,9 @@
     "链接": "https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/"
   },
   {
-    "标题": "AI for everyone in every language",
+    "标题": "AI for Societal Impact",
     "发布方": "Google",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -288,12 +304,28 @@
       "AI"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+    "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
+  },
+  {
+    "标题": "Building AI to accelerate science and improve lives",
+    "发布方": "Google",
+    "日期": "2026-09-17",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
   },
   {
     "标题": "4 ways to tackle household chores with Gemini",
     "发布方": "Google",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -308,9 +340,25 @@
     "链接": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/"
   },
   {
+    "标题": "AI for everyone in every language",
+    "发布方": "Google",
+    "日期": "2026-09-17",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+  },
+  {
     "标题": "Ask a Scientist: How can researchers use AI to spot a wildfire?",
     "发布方": "Google",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -324,41 +372,9 @@
     "链接": "https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/"
   },
   {
-    "标题": "Building AI to accelerate science and improve lives",
-    "发布方": "Google",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
-  },
-  {
-    "标题": "AI for Societal Impact",
-    "发布方": "Google",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
-  },
-  {
     "标题": "Sharpen your study routine with new Gemini Notebook tools",
     "发布方": "Google",
-    "日期": "2026-09-16",
+    "日期": "2026-09-17",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -371,21 +387,5 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/"
-  },
-  {
-    "标题": "New insights from Google’s AI & Economy ATLAS",
-    "发布方": "Google",
-    "日期": "2026-09-16",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/"
   }
 ]

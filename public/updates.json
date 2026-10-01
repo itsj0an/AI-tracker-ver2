@@ -1,5 +1,21 @@
 [
   {
+    "标题": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+    "发布方": "Anthropic",
+    "日期": "2026-10-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/barclays-scales-claude"
+  },
+  {
     "标题": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
     "发布方": "Anthropic",
     "日期": "2026-10-01",
@@ -144,22 +160,6 @@
     "链接": "https://www.anthropic.com/news/claude-text-watermark"
   },
   {
-    "标题": "Aug 7, 2026 Product Improving Fable 5's biology safeguards",
-    "发布方": "Anthropic",
-    "日期": "2026-10-01",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
-  },
-  {
     "标题": "Responsible Scaling Policy",
     "发布方": "Anthropic",
     "日期": "2026-10-01",
@@ -174,6 +174,55 @@
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
     "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+  },
+  {
+    "标题": "Turn your existing social assets into high-impact YouTube ads.",
+    "发布方": "Google",
+    "日期": "2026-10-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/creating-assets-youtube-ads/"
+  },
+  {
+    "标题": "Guided Vision in Gemini Live: built for accessibility",
+    "发布方": "Google",
+    "日期": "2026-10-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/"
+  },
+  {
+    "标题": "1,400 educators joined our Badge-a-thon: Day of AI Learning.",
+    "发布方": "Google",
+    "日期": "2026-10-01",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/"
   },
   {
     "标题": "Google's AI ranks #1 for predicting flu hospitalizations.",
@@ -321,54 +370,5 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/"
-  },
-  {
-    "标题": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "发布方": "Google",
-    "日期": "2026-10-01",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
-  },
-  {
-    "标题": "Google Arts & Culture turns 15 — and gives its app a makeover",
-    "发布方": "Google",
-    "日期": "2026-10-01",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/"
-  },
-  {
-    "标题": "See what 4 builders are making with Gemini 3.8 Flash",
-    "发布方": "Google",
-    "日期": "2026-10-01",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/"
   }
 ]

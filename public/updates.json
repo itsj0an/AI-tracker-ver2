@@ -1,6 +1,22 @@
 [
   {
-    "标题": "Expanding the Cyber Verification Program Announcements Oct 6, 2026 We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+    "标题": "Announcements",
+    "发布方": "Anthropic",
+    "日期": "2026-10-20",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/announcements"
+  },
+  {
+    "标题": "Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
     "发布方": "Anthropic",
     "日期": "2026-10-20",
     "地区": "海外",
@@ -16,7 +32,24 @@
     "链接": "https://www.anthropic.com/news/cyber-verification-program"
   },
   {
-    "标题": "Oct 18, 2026 Announcements Investing in the public benefit",
+    "标题": "Partnerships",
+    "发布方": "Anthropic",
+    "日期": "2026-10-20",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "合作"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/partnerships"
+  },
+  {
+    "标题": "Investing in the public benefit",
     "发布方": "Anthropic",
     "日期": "2026-10-20",
     "地区": "海外",
@@ -32,7 +65,7 @@
     "链接": "https://www.anthropic.com/news/public-benefit-fund"
   },
   {
-    "标题": "Oct 15, 2026 Announcements An update on independent evaluators",
+    "标题": "An update on independent evaluators",
     "发布方": "Anthropic",
     "日期": "2026-10-20",
     "地区": "海外",
@@ -48,7 +81,7 @@
     "链接": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
   },
   {
-    "标题": "Oct 14, 2026 Policy Preparing for the 2026 US midterms",
+    "标题": "Preparing for the 2026 US midterms",
     "发布方": "Anthropic",
     "日期": "2026-10-20",
     "地区": "海外",
@@ -64,7 +97,23 @@
     "链接": "https://www.anthropic.com/news/2026-us-midterms"
   },
   {
-    "标题": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+    "标题": "Safeguards",
+    "发布方": "Anthropic",
+    "日期": "2026-10-20",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/safeguards"
+  },
+  {
+    "标题": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
     "发布方": "Anthropic",
     "日期": "2026-10-20",
     "地区": "海外",
@@ -80,7 +129,7 @@
     "链接": "https://www.anthropic.com/news/singapore-office-opening"
   },
   {
-    "标题": "Oct 8, 2026 Announcements 2026 Usage Policy update",
+    "标题": "Strengthening our defenses against distillation attacks",
     "发布方": "Anthropic",
     "日期": "2026-10-20",
     "地区": "海外",
@@ -93,26 +142,10 @@
       "Claude"
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/2026-usage-policy-update"
+    "链接": "https://www.anthropic.com/news/distillation-defenses"
   },
   {
-    "标题": "Oct 8, 2026 Announcements Building on our commitment to American scientific discovery",
-    "发布方": "Anthropic",
-    "日期": "2026-10-20",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/genesis-mission-commitment"
-  },
-  {
-    "标题": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
+    "标题": "Introducing the Anthropic Cyber Mission",
     "发布方": "Anthropic",
     "日期": "2026-10-20",
     "地区": "海外",
@@ -128,7 +161,7 @@
     "链接": "https://www.anthropic.com/news/anthropic-cyber-mission"
   },
   {
-    "标题": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+    "标题": "Security",
     "发布方": "Anthropic",
     "日期": "2026-10-20",
     "地区": "海外",
@@ -141,10 +174,10 @@
       "Claude"
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/claude-frontier-academy"
+    "链接": "https://www.anthropic.com/news/security"
   },
   {
-    "标题": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+    "标题": "2026 Usage Policy update",
     "发布方": "Anthropic",
     "日期": "2026-10-20",
     "地区": "海外",
@@ -157,23 +190,56 @@
       "Claude"
     ],
     "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/barclays-scales-claude"
+    "链接": "https://www.anthropic.com/news/2026-usage-policy-update"
   },
   {
-    "标题": "Responsible Scaling Policy",
-    "发布方": "Anthropic",
+    "标题": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+    "发布方": "Google",
     "日期": "2026-10-20",
     "地区": "海外",
     "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
+    "来源": "Google Blog",
     "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
     "标签": [
-      "Anthropic",
-      "Claude"
+      "Google",
+      "AI"
     ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy"
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/"
+  },
+  {
+    "标题": "New Gemini tools for small business owners",
+    "发布方": "Google",
+    "日期": "2026-10-20",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/"
+  },
+  {
+    "标题": "Expanding our defenses against financial scam ads",
+    "发布方": "Google",
+    "日期": "2026-10-20",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products/ads-commerce/financial-services-verification-united-states-canada/"
   },
   {
     "标题": "How to shape your slides and videos with Gemini Notebook",
@@ -321,53 +387,5 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/"
-  },
-  {
-    "标题": "More ways to connect with the web from Search",
-    "发布方": "Google",
-    "日期": "2026-10-20",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/"
-  },
-  {
-    "标题": "Making your Pixel devices last longer through design, repair, and reuse",
-    "发布方": "Google",
-    "日期": "2026-10-20",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/"
-  },
-  {
-    "标题": "TIME has named Google SynthID one of the Best Inventions of 2026.",
-    "发布方": "Google",
-    "日期": "2026-10-20",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/"
   }
 ]

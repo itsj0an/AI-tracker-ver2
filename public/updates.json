@@ -2,7 +2,7 @@
   {
     "标题": "Announcements",
     "发布方": "Anthropic",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -16,25 +16,9 @@
     "链接": "https://www.anthropic.com/news/announcements"
   },
   {
-    "标题": "Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+    "标题": "Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
     "发布方": "Anthropic",
-    "日期": "2026-10-27",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/cyber-verification-program"
-  },
-  {
-    "标题": "Anthropic files S-1 with the SEC for proposed initial public offering",
-    "发布方": "Anthropic",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -50,7 +34,7 @@
   {
     "标题": "Features",
     "发布方": "Anthropic",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -64,9 +48,43 @@
     "链接": "https://www.anthropic.com/news/features"
   },
   {
+    "标题": "Expanding our partnership with GSA to bring Claude to all levels of government",
+    "发布方": "Anthropic",
+    "日期": "2026-10-28",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "合作"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/expanding-partnership-gsa"
+  },
+  {
+    "标题": "Partnerships",
+    "发布方": "Anthropic",
+    "日期": "2026-10-28",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Anthropic Newsroom",
+    "来源类型": "官方",
+    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
+    "标签": [
+      "Anthropic",
+      "Claude",
+      "合作"
+    ],
+    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
+    "链接": "https://www.anthropic.com/news/partnerships"
+  },
+  {
     "标题": "Donating Agent Skills to the Agentic AI Foundation",
     "发布方": "Anthropic",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -82,7 +100,7 @@
   {
     "标题": "Open call for guest investigators in the life sciences",
     "发布方": "Anthropic",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -98,7 +116,7 @@
   {
     "标题": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
     "发布方": "Anthropic",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -114,7 +132,7 @@
   {
     "标题": "An update on independent evaluators",
     "发布方": "Anthropic",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -130,7 +148,7 @@
   {
     "标题": "Preparing for the 2026 US midterms",
     "发布方": "Anthropic",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -146,7 +164,7 @@
   {
     "标题": "Safeguards",
     "发布方": "Anthropic",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -162,7 +180,7 @@
   {
     "标题": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
     "发布方": "Anthropic",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -176,25 +194,9 @@
     "链接": "https://www.anthropic.com/news/singapore-office-opening"
   },
   {
-    "标题": "Strengthening our defenses against distillation attacks",
-    "发布方": "Anthropic",
-    "日期": "2026-10-27",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Anthropic Newsroom",
-    "来源类型": "官方",
-    "一句话摘要": "Anthropic 发布 Claude 相关产品、合作或基础设施动态。",
-    "标签": [
-      "Anthropic",
-      "Claude"
-    ],
-    "追踪价值总结": "适合追踪 Claude 体系在产品能力、企业合作与算力布局上的最新方向。",
-    "链接": "https://www.anthropic.com/news/distillation-defenses"
-  },
-  {
     "标题": "We’re announcing Genie 4, our new world model for real-time interactive simulation.",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -210,7 +212,7 @@
   {
     "标题": "8 examples of Gemini 4 Argon in action",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -227,7 +229,7 @@
   {
     "标题": "15 college students share their favorite Gemini features",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -244,7 +246,7 @@
   {
     "标题": "Our newest AI Quest: Mapping the human brain",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -260,7 +262,7 @@
   {
     "标题": "Powering sub-Saharan Africa beyond the grid",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -276,7 +278,7 @@
   {
     "标题": "We’re helping farmers around the world connect to essential services online.",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -292,7 +294,7 @@
   {
     "标题": "See what 5 builders are making with Gemini 4 Argon",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -309,7 +311,7 @@
   {
     "标题": "Recreating the lost studios of women sculptors with Prune Nourry",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -326,7 +328,7 @@
   {
     "标题": "New bidding and budgeting tools can transform your upcoming holiday ad strategy.",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -342,7 +344,7 @@
   {
     "标题": "Drive with “The Cat in the Hat” on Waze.",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -358,7 +360,7 @@
   {
     "标题": "Southeast Asia’s digital economy to hit $368 billion",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -374,7 +376,7 @@
   {
     "标题": "Get hands-free personalized help on the road with Gemini",
     "发布方": "Google",
-    "日期": "2026-10-27",
+    "日期": "2026-10-28",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",

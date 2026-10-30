@@ -2,7 +2,7 @@
   {
     "标题": "Announcements",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -18,7 +18,7 @@
   {
     "标题": "Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -34,7 +34,7 @@
   {
     "标题": "Features",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -50,7 +50,7 @@
   {
     "标题": "AI for Science expands to foundations and research institutions",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -66,7 +66,7 @@
   {
     "标题": "Expanding our partnership with GSA to bring Claude to all levels of government",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -83,7 +83,7 @@
   {
     "标题": "Partnerships",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -100,7 +100,7 @@
   {
     "标题": "Donating Agent Skills to the Agentic AI Foundation",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "Agent",
     "来源": "Anthropic Newsroom",
@@ -116,7 +116,7 @@
   {
     "标题": "Open call for guest investigators in the life sciences",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -132,7 +132,7 @@
   {
     "标题": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -148,7 +148,7 @@
   {
     "标题": "An update on independent evaluators",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -164,7 +164,7 @@
   {
     "标题": "Preparing for the 2026 US midterms",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -180,7 +180,7 @@
   {
     "标题": "Safeguards",
     "发布方": "Anthropic",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Anthropic Newsroom",
@@ -196,7 +196,7 @@
   {
     "标题": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
     "发布方": "Google",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -211,9 +211,25 @@
     "链接": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/"
   },
   {
+    "标题": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
+    "发布方": "Google",
+    "日期": "2026-10-30",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/"
+  },
+  {
     "标题": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
     "发布方": "Google",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -230,7 +246,7 @@
   {
     "标题": "Equipping healthcare professionals with practical AI skills",
     "发布方": "Google",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -246,7 +262,7 @@
   {
     "标题": "How to use Gemini to update your resume",
     "发布方": "Google",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -263,7 +279,7 @@
   {
     "标题": "How Gemini is helping students and teachers in the classroom",
     "发布方": "Google",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -280,7 +296,7 @@
   {
     "标题": "Partnering with Singapore to bring frontier AI to public health",
     "发布方": "Google",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -296,7 +312,7 @@
   {
     "标题": "Ads in AI Mode expand to new markets.",
     "发布方": "Google",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -312,7 +328,7 @@
   {
     "标题": "Q3 2026 earnings call: Remarks from our CEO",
     "发布方": "Google",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -328,7 +344,7 @@
   {
     "标题": "Adapt your ad strategy to meet the way people search today.",
     "发布方": "Google",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -344,7 +360,7 @@
   {
     "标题": "Dive into new topics with immersive explorations in the Gemini app.",
     "发布方": "Google",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",
@@ -359,26 +375,9 @@
     "链接": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/"
   },
   {
-    "标题": "XREAL AURA: Wired XR glasses to watch, work, and play",
-    "发布方": "Google",
-    "日期": "2026-10-29",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/"
-  },
-  {
     "标题": "Gemini 4 Carbon: our next frontier model",
     "发布方": "Google",
-    "日期": "2026-10-29",
+    "日期": "2026-10-30",
     "地区": "海外",
     "类型": "模型升级",
     "来源": "Google Blog",

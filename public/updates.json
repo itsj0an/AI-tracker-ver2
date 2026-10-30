@@ -194,6 +194,38 @@
     "链接": "https://www.anthropic.com/news/safeguards"
   },
   {
+    "标题": "We’ve received our first response from the Project Suncatcher prototype satellite.",
+    "发布方": "Google",
+    "日期": "2026-10-30",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
+  },
+  {
+    "标题": "See who has access to your Gmail inbox in 2 minutes.",
+    "发布方": "Google",
+    "日期": "2026-10-30",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/"
+  },
+  {
     "标题": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
     "发布方": "Google",
     "日期": "2026-10-30",
@@ -356,39 +388,5 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/"
-  },
-  {
-    "标题": "Dive into new topics with immersive explorations in the Gemini app.",
-    "发布方": "Google",
-    "日期": "2026-10-30",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/"
-  },
-  {
-    "标题": "Gemini 4 Carbon: our next frontier model",
-    "发布方": "Google",
-    "日期": "2026-10-30",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
   }
 ]

@@ -1,117 +1,5 @@
 [
   {
-    "标题": "Research",
-    "发布方": "OpenAI",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "OpenAI News",
-    "来源类型": "官方",
-    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
-    "标签": [
-      "OpenAI",
-      "产品动态"
-    ],
-    "追踪价值总结": "可用于持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
-    "链接": "https://openai.com/news/research/"
-  },
-  {
-    "标题": "Engineering",
-    "发布方": "OpenAI",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "OpenAI News",
-    "来源类型": "官方",
-    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
-    "标签": [
-      "OpenAI",
-      "产品动态"
-    ],
-    "追踪价值总结": "可用于持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
-    "链接": "https://openai.com/news/engineering/"
-  },
-  {
-    "标题": "Security",
-    "发布方": "OpenAI",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "OpenAI News",
-    "来源类型": "官方",
-    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
-    "标签": [
-      "OpenAI",
-      "产品动态"
-    ],
-    "追踪价值总结": "可用于持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
-    "链接": "https://openai.com/news/security/"
-  },
-  {
-    "标题": "Intelligence Age",
-    "发布方": "OpenAI",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "OpenAI News",
-    "来源类型": "官方",
-    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
-    "标签": [
-      "OpenAI",
-      "产品动态"
-    ],
-    "追踪价值总结": "可用于持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
-    "链接": "https://openai.com/news/intelligence-age/"
-  },
-  {
-    "标题": "Global Affairs",
-    "发布方": "OpenAI",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "OpenAI News",
-    "来源类型": "官方",
-    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
-    "标签": [
-      "OpenAI",
-      "产品动态"
-    ],
-    "追踪价值总结": "可用于持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
-    "链接": "https://openai.com/news/global-affairs/"
-  },
-  {
-    "标题": "AI Adoption",
-    "发布方": "OpenAI",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "OpenAI News",
-    "来源类型": "官方",
-    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
-    "标签": [
-      "OpenAI",
-      "产品动态"
-    ],
-    "追踪价值总结": "可用于持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
-    "链接": "https://openai.com/news/ai-adoption/"
-  },
-  {
-    "标题": "Applied AI",
-    "发布方": "OpenAI",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "产品发布",
-    "来源": "OpenAI News",
-    "来源类型": "官方",
-    "一句话摘要": "OpenAI 发布新的产品、功能或公司动态。",
-    "标签": [
-      "OpenAI",
-      "产品动态"
-    ],
-    "追踪价值总结": "可用于持续追踪头部 AI 公司在产品发布、功能更新与商业推进上的最新变化。",
-    "链接": "https://openai.com/news/applied-ai/"
-  },
-  {
     "标题": "Announcements",
     "发布方": "Anthropic",
     "日期": "2026-11-05",
@@ -306,6 +194,73 @@
     "链接": "https://www.anthropic.com/news/safeguards"
   },
   {
+    "标题": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+    "发布方": "Google",
+    "日期": "2026-11-05",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/"
+  },
+  {
+    "标题": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "发布方": "Google",
+    "日期": "2026-11-05",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+  },
+  {
+    "标题": "Transform a quick drawing into a live app with Gemini.",
+    "发布方": "Google",
+    "日期": "2026-11-05",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/"
+  },
+  {
+    "标题": "Check out our free livestream during National Veterans Small Business Week.",
+    "发布方": "Google",
+    "日期": "2026-11-05",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/"
+  },
+  {
     "标题": "We're sharing our framework for building safer and more helpful AI for health.",
     "发布方": "Google",
     "日期": "2026-11-05",
@@ -320,6 +275,22 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/"
+  },
+  {
+    "标题": "Designing responsible AI for learning",
+    "发布方": "Google",
+    "日期": "2026-11-05",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
   },
   {
     "标题": "New research shows how Guided Learning supports students",
@@ -370,22 +341,6 @@
     "链接": "https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/"
   },
   {
-    "标题": "Designing responsible AI for learning",
-    "发布方": "Google",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/"
-  },
-  {
     "标题": "Expanding AI educator training to new countries",
     "发布方": "Google",
     "日期": "2026-11-05",
@@ -432,70 +387,5 @@
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
     "链接": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
-  },
-  {
-    "标题": "We’ve received our first response from the Project Suncatcher prototype satellite.",
-    "发布方": "Google",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
-  },
-  {
-    "标题": "See who has access to your Gmail inbox in 2 minutes.",
-    "发布方": "Google",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/"
-  },
-  {
-    "标题": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.",
-    "发布方": "Google",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/"
-  },
-  {
-    "标题": "Colorado students joined a Google hackathon to tackle energy grid challenges.",
-    "发布方": "Google",
-    "日期": "2026-11-05",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/"
   }
 ]

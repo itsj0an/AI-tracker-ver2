@@ -194,6 +194,88 @@
     "链接": "https://www.anthropic.com/news/2026-us-midterms"
   },
   {
+    "标题": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+    "发布方": "Google",
+    "日期": "2026-11-11",
+    "地区": "海外",
+    "类型": "开发者工具",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+  },
+  {
+    "标题": "Built on Googlebook: Play Henry Cavill’s video game to support Movember",
+    "发布方": "Google",
+    "日期": "2026-11-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/"
+  },
+  {
+    "标题": "Talk it through with Gemini, now on Apple CarPlay",
+    "发布方": "Google",
+    "日期": "2026-11-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI",
+      "Gemini"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/"
+  },
+  {
+    "标题": "Get certified as a Google Cloud Professional Agentic Architect.",
+    "发布方": "Google",
+    "日期": "2026-11-11",
+    "地区": "海外",
+    "类型": "Agent",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/"
+  },
+  {
+    "标题": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+    "发布方": "Google",
+    "日期": "2026-11-11",
+    "地区": "海外",
+    "类型": "模型升级",
+    "来源": "Google Blog",
+    "来源类型": "官方",
+    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
+    "标签": [
+      "Google",
+      "AI"
+    ],
+    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+  },
+  {
     "标题": "Gemini Intelligence: New features, on more devices",
     "发布方": "Google",
     "日期": "2026-11-11",
@@ -261,11 +343,11 @@
     "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/"
   },
   {
-    "标题": "Introducing the Multimodal Knowledge Agent benchmark",
+    "标题": "Introducing 3 new domains: .eat, .fly, and .here",
     "发布方": "Google",
     "日期": "2026-11-11",
     "地区": "海外",
-    "类型": "Agent",
+    "类型": "模型升级",
     "来源": "Google Blog",
     "来源类型": "官方",
     "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
@@ -274,7 +356,7 @@
       "AI"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/"
+    "链接": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/"
   },
   {
     "标题": "Gemini 4 Carbon is now available",
@@ -294,89 +376,7 @@
     "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
   },
   {
-    "标题": "Introducing 3 new domains: .eat, .fly, and .here",
-    "发布方": "Google",
-    "日期": "2026-11-11",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/"
-  },
-  {
-    "标题": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-    "发布方": "Google",
-    "日期": "2026-11-11",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
-  },
-  {
-    "标题": "Google Cloud launches Gemini for healthcare.",
-    "发布方": "Google",
-    "日期": "2026-11-11",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI",
-      "Gemini"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
-  },
-  {
-    "标题": "Waze and Garmin team up to boost driver awareness of cyclists.",
-    "发布方": "Google",
-    "日期": "2026-11-11",
-    "地区": "海外",
-    "类型": "模型升级",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/waze/garmin-safety-cyclists/"
-  },
-  {
-    "标题": "Developers can now build with Google Maps Platform in AI Studio.",
-    "发布方": "Google",
-    "日期": "2026-11-11",
-    "地区": "海外",
-    "类型": "开发者工具",
-    "来源": "Google Blog",
-    "来源类型": "官方",
-    "一句话摘要": "Google 发布与 AI、Gemini 或相关产品能力有关的官方动态。",
-    "标签": [
-      "Google",
-      "AI"
-    ],
-    "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/"
-  },
-  {
-    "标题": "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+    "标题": "Introducing the Multimodal Knowledge Agent benchmark",
     "发布方": "Google",
     "日期": "2026-11-11",
     "地区": "海外",
@@ -389,6 +389,6 @@
       "AI"
     ],
     "追踪价值总结": "适合持续观察 Google 在 AI 产品整合、平台能力与生态推进上的方向变化。",
-    "链接": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/"
+    "链接": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/"
   }
 ]
